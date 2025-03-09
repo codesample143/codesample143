@@ -24,13 +24,15 @@
 
 # What am I working on now?
 Many of the repositories and related files are outdated as I haven't been pushing regularly, but I plan to update them over the next six months. Currently I'm working on development
-of a multi-functional platform through an API that will be hosted on Heroku/Render. This will be done through a mix of Python, FastAPI, Heroku, SQL, Javascript, and related technologies. I've
-yet to decide whether I want to make it open source, but I will definitely consider it. 
+of a multi-functional platform through an API that will be hosted on Heroku/Render. This will be done through a mix of Python, FastAPI, Heroku, SQL, Javascript, and related technologies. 
 
+Some other projects/interests I've started but haven't delved too deeply in:
+  - Mobile Development for iOS in Swift (Only basic code at the moment, currently working on API calls)
+  - Cross Platform Private Chat using End-to-End Encryption (Currently working on hosting) 
+  - Machine Learning Models (Linear Regression, Binary Classification, Computer Vision, Decision Trees, Pruning, Mathematics)
+  - Hold'Em Poker Simulator (To feature modeling against GTO (Game-Theory Optimal) play, Random Sampling, Simulators. These features will likely never be open source, and I've only currently implemented basic object oriented code in the repository.)  
 
-
-
-
+Looking forward to completing many of these projects by the end of the year! 
 <!--
 **definitelynotsalesman/definitelynotsalesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
