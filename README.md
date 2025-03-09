@@ -16,6 +16,17 @@
 # Technologies
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" />
+<img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Qt" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+
+# What am I working on now?
+Many of the repositories and related files are outdated as I haven't been pushing regularly, but I plan to update them over the next six months. Currently I'm working on development
+of a multi-functional platform through an API that will be hosted on Heroku. This will be done through a mix of Python, FastAPI, Heroku, SQL, Javascript, and related technologies. I've
+yet to decide whether I want to make it open source, but I will definitely consider it. This section will be continually updated every couple of months or so.
+
+
 
 <!--
 **definitelynotsalesman/definitelynotsalesman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
