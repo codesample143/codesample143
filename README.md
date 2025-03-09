@@ -24,7 +24,7 @@
 
 # What am I working on now?
 Many of the repositories and related files are outdated as I haven't been pushing regularly, but I plan to update them over the next six months. Currently I'm working on development
-of a multi-functional platform through an API that will be hosted on Heroku/Render. This will be done through a mix of Python, FastAPI, Heroku, SQL, Javascript, and related technologies. 
+of a multi-functional platform through an API that will be hosted on Heroku/Render. This will be done through a mix of Python, FastAPI, SQL, Javascript, and related technologies. 
 
 Some other projects/interests I've started but haven't delved too deeply in:
   - Mobile Development for iOS in Swift (Only basic code at the moment, currently working on API calls)
