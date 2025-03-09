@@ -30,7 +30,7 @@ Some other projects/interests I've started but haven't delved too deeply in:
   - Mobile Development for iOS in Swift (Only basic code at the moment, currently working on API calls)
   - Cross Platform Private Chat using End-to-End Encryption (Currently working on hosting) 
   - Machine Learning Models (Linear Regression, Binary Classification, Computer Vision, Decision Trees, Pruning, Mathematics)
-  - Hold'Em Poker Simulator (To feature modeling against GTO (Game-Theory Optimal) play, Random Sampling, Simulators. These features will likely never be open source, and I've only currently implemented basic object oriented code.)  
+  - Hold'Em Poker Simulator (To feature modeling against GTO (Game-Theory Optimal) play, Random Sampling, Edge Simulatons. These features will likely never be open source, and I've only currently implemented basic object oriented code.)  
 
 Looking forward to completing many of these projects by the end of the year! 
 <!--
