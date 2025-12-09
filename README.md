@@ -21,10 +21,8 @@
 
 # What am I working on now?
 Some other projects/interests I've started but haven't delved too deeply in:
-  - Mobile Development for iOS in Swift (Only basic code at the moment, currently working on API calls)
   - Cross Platform Private Chat using End-to-End Encryption (Currently working on hosting) 
-  - Machine Learning Models (Linear Regression, Binary Classification, Computer Vision, Decision Trees, Pruning, Mathematics)
-  - Hold'Em Poker Simulator (To feature modeling against GTO (Game-Theory Optimal) play, Random Sampling, Edge Simulatons. These features will likely never be open source, and I've only currently implemented basic object oriented code.)
+  - Machine Learning Models (Linear Regression, Binary Classification, Computer Vision, Decision Trees, Pruning, Mathematics). Diving deeper into internals and design.
   - Databases -> RDBMS design, JDBC, OracleSQL, full design + implementation. This has now evolved into its own full fledged I/O project, which is one of my featured repositories. Eventually, I want my project to be able to handle things like VectorDB, Time Series DB, and many other features that serve as the backbone behind data integrity today.   
 
 Looking forward to completing many of these projects by the end of the year! 
