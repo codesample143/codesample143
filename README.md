@@ -21,10 +21,9 @@
 
 # What am I working on now?
 Some other projects/interests I've started but haven't delved too deeply in:
-  - Cross Platform Private Chat using End-to-End Encryption (Currently working on hosting) 
-  - Machine Learning Models (Linear Regression, Binary Classification, Computer Vision, Decision Trees, Pruning, Mathematics). Diving deeper into internals and design.
   - Search Engine -> Aggressive optimization, caching, database optimization.
   - Chess Engine -> Distributed training data set.
+  - Distributed File System (production grade) 
 
 Looking forward to completing many of these projects by the end of the year! 
 
